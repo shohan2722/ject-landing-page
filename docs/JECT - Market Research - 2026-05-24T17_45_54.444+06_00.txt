@@ -1,0 +1,176 @@
+﻿Market Research:
+Funnel Copy — JECT
+
+
+1. Executive Summary
+Key Moves (specific, testable actions)
+* Launch a $49 paid “Preventative Consultation + Plan” tripwire (TOFU → MOFU). Expect: 20–35% tripwire-to-booking uplift vs. free consults; CAC reduction by 25% (Assumption — validate with A/B test).
+* Primary paid channels: Local Google Search (high-intent treatment + “near me”) + Meta lead ads promoting the Preventative Playbook magnet. Expect: 3–6% landing-page CVR on search; 1.0–2.0% lead CVR on Meta (Assumption — market-dependent).
+* Promote “JECT Academy Micro‑Dose Method” as the core mechanism across all copy — use provider profiles + 30–60s video explainers (MOFU/BOFU). Expect: +15–25% increase in consult-to-treatment conversion (Assumption — validate with tracking).
+* Create a Wedding Prep “90‑Day Camera‑Ready” package priced as anchor ($2,799–3,499) with clear treatment timing calendar and before/after proof (BOFU). Expect: higher AOV, +20% package conversions during peak wedding season.
+* Reframe membership into a SkinPlan (annual $199 + quarterly touchpoints, one included quarterly treatment credit) and sell at point of checkout + post-treatment nurture (ASCENSION). Target membership conversion 8–15% of first-time treatment buyers (Assumption — validate).
+* Implement immediate Local SEO and GBP optimization checklist per location + review generation flow to lift organic calls/bookings. Expect: +10–30% growth in organic appointment queries within 60 days (Assumption — depends on baseline).
+* Test “Paid consult with treatment credit” vs. “free consult” across locations (A/B). Measure consult show rate, no‑show reduction, and revenue per consult; pick winner by 30 days.
+
+
+Top 3 Risks
+* Regulatory/claim risk: Medical claims and testimonials must comply with local healthcare advertising rules; noncompliance could force ad takedowns.
+* Provider variability: Multi-location standards risk inconsistent patient outcomes which will damage the natural-results promise.
+* Pricing friction in affluent markets: Overemphasis on low-price triggers can erode premium perception and reduce long-term membership lifts.
+
+
+Top 3 Unknowns requiring validation
+* True customer VOC (exact phrases) from local Google/Yelp/Reddit for JECT’s specific locations — Unknown — requires review of Google Reviews, Yelp, and Reddit threads for each market.
+* Real AOV and conversion rates by treatment for JECT locations (by city) — Assumption — needs extraction from POS/CRM.
+* Competitive pricing and membership features of nearest clinics per location — Assumption — validate via competitor site audits and mystery calls.
+
+
+
+
+2. Business Snapshot
+What We Know (from inputs)
+* Business: JECT — multi-location medical aesthetics + beauty bar hybrid (NYC, LA, Miami, Westchester, Bridgehampton, NJ, Palm Beach).
+* Services: Injectables (wrinkle reducers, fillers), lasers/light (BBL, Moxi), microneedling, Aquagold, peels, facials, hair rejuvenation, skin tightening, medical-grade skincare e-commerce.
+* Positioning: Modern, approachable, safe, curated, results-driven; differentiators include licensed providers + “JECT Academy” training + Medical Directors.
+* Target: Affluent, style-conscious adults (primary: women 25–45), professionals needing convenience, brides/event prep, skincare-focused clients, beginners seeking guidance, recurring maintenance members.
+* Current strategic funnel: Location-based consultation engine with membership ascension ladder; core mechanism: “Academy-Trained Micro‑Dose Method”.
+
+
+What We’re Assuming (clearly flagged)
+* Pricing bands: typical single treatment AOV likely ranges $200–1,200; memberships priced $199/year (input) with treatment discounts. (Assumption — validate).
+* Current CAC and conversion rates are unknown; we assume mid-tier urban CAC for consult leads $75–200 depending on channel. (Assumption — validate).
+* Competitor mix and exact local competitors vary by city; initial competitor shortlist created from recent market scans but requires validation per location. (Assumption — validate).
+
+
+
+
+3. Primary Persona (MOST VALUABLE — single focus)
+Persona: Olivia — 32, NYC-based creative director; busy, image-conscious, wants preventative, natural results
+* JTBD (one sentence)- When I feel my skin/facial markers are aging or dulling, I want expert, efficient treatments that preserve my natural look so I can feel confident in professional and social settings without obvious changes.
+* Top 3 Pains → Desired Outcomes1. Pain: Afraid of looking “done” or frozen → Outcome: Subtle, refreshed, “like myself but rested” results.2. Pain: Don’t know which treatment to choose → Outcome: Clear, personalized plan and schedule that fits lifestyle and events.3. Pain: Time-poor and skeptical of providers → Outcome: Efficient appointments, transparent pricing, trusted credentialing (licensed medical provider).
+* Buying Triggers (2–3)- Upcoming high-visibility event (wedding, reunion, presentation).- Visible first signs of aging (fine lines, hollowness) or a selfie/photo concern.- Friend referral or influencer post showing natural-looking results.
+* Decision Criteria (3–5)1. Provider credentials + training (medical oversight, Academy).2. Natural-looking portfolio (before/after in similar demographics).3. Convenience (online booking, location, scheduling).4. Clear pricing and package/timeline for event prep.5. Post-procedure communication and follow-up.
+* Top 3 Objections1. “I’m scared of looking overdone.” — rebuttal: Micro-dose method + provider portfolio and video explainers.2. “Is this safe / licensed?” — rebuttal: JECT Academy, Medical Director oversight, provider bios with credentials.3. “Too expensive / not worth it.” — rebuttal: Membership skin health framing; cost-per-day value + long-term roadmap.
+* VOC Phrases (5–7 exact quotes with source/context)- Exact recent quotes are Unknown — requires validation (see below). The lines below are paraphrases (not exact) drawn from common themes in medspa reviews and forums; each must be verified against Google Reviews, Yelp, and Reddit threads for the specific locations.  - Paraphrase — needs validation: “I wanted to look refreshed, not like I’d had work done.” (Source targets: Yelp/Google Reviews — wedding/event prep reviews)  - Paraphrase — needs validation: “I’m nervous about Botox — can someone explain how much is safe?” (Source targets: Reddit r/SkincareAddiction, r/Beauty)  - Paraphrase — needs validation: “Booking online made it so easy to fit into my schedule.” (Source targets: Google Reviews)  - Paraphrase — needs validation: “They gave me a clear timeline before my wedding — I knew what to expect.” (Source targets: Yelp/Google Reviews for wedding packages)  - Paraphrase — needs validation: “Pricey but worth it for a provider who actually knows what they’re doing.” (Source targets: Google Reviews)  - Paraphrase — needs validation: “I wanted something subtle; I got exactly that.” (Source targets: Instagram comments / testimonials)  - Paraphrase — needs validation: “I wish my membership felt more than just discounts.” (Source targets: Google/Yelp complaints about membership value)
+
+
+Validation required: Pull 3–5 exact quotes per market from Google Reviews (JECT locations), Yelp, Reddit search terms (“Botox first time”, “medspa wedding prep [city]”, “microdose Botox [city]”).
+
+
+
+
+4. Competitive Intel (Fast)
+
+
+Notes:
+* Competitor entries above are pulled from a rapid Perplexity scan and need location-by-location validation. (Assumption — competitor specifics require verification via competitor websites, Google Business, and mystery shopping.)
+
+
+Competitive positioning patterns (fast takeaways)
+* Winning combos: premium lifestyle aesthetic + medical credibility (Academy/MD oversight).
+* Hooks trending: micro-dose / “preventative” messaging, “camera-ready”, membership-as-program, seasonal series.
+* Price signals: Competitors either show transparent per-treatment pricing (builds trust) or anchor with premium packages (weddings) to justify higher AOV.
+
+
+
+
+5. Assumptions Requiring Validation
+* Exact VOC quotes by market for JECT (Google Reviews, Yelp, Reddit) — Unknown — requires targeted review extraction.
+* True AOV per treatment, membership uptake %, and lifetime value by location — Unknown — requires CRM/POS export.
+* Local competitor prices, membership features, and converted marketing hooks for each JECT market — Unknown — requires competitor audits/mystery calls.
+* Current CAC and channel performance (Google Ads, Meta, organic) — Unknown — requires ad account & analytics access.
+* Provider roster consistency & provider-level conversion rates (some providers may convert better) — Unknown — requires internal booking data.
+
+
+
+
+Additional Tactical Blueprint (fast, actionable)
+
+
+A. Funnel Architecture (condensed)
+* TOFU (Cold): Social reels (educational + results), SEO articles (“Preventative botox guide”), Lead Magnet (Preventative Aging Playbook), Google Local ads for high-intent keywords.
+* MOFU (Warm): $49 Preventative Consultation landing page; Treatment comparison quiz; Provider profile pages with micro-dose video explainers; Email + SMS nurture.
+* BOFU (Hot): Direct booking pages with provider selection and “book now” CTAs, Wedding Prep package page, limited membership spots CTA.
+* Post-purchase: Automated post-treatment follow-up, membership pitch within 7–14 days, review request flow, referral credits.
+
+
+Assets to Build with KPIs (exact)
+* Preventative Consultation landing page + checkout ($49) — KPI: Landing CVR 15–25% from warm traffic; tripwire purchase → consult booking rate 60–80% show. (Assumption)
+* 30–60s “Micro‑Dose Method” explainer video for each top treatment (Botox, filler, Microneedling) — KPI: +15–25% increase in landing page engagement; +10% lift in consult bookings (Assumption).
+* Wedding Prep package page with timeline PDF + CTA — KPI: Package form submit CVR 3–6% from targeted brides ads; AOV uplift +30–50% vs single treatments.
+* Provider micro-sites (bio + certifications + before/after) per location — KPI: increase provider selection conversion; improve consult-to-treatment rate by 10–20%.
+* Google Business Profile optimization + review request automation — KPI: 4.5+ star target and +20% increase in GBP calls within 60 days.
+* Membership (SkinPlan) product page + post-treatment upsell flow — KPI: 8–15% membership conversion among new patients (Assumption).
+* Email/SMS automations: Welcome sequence, pre-appointment reminders, post-treatment nurture — KPI: reduce no-show by 20–40%; increase re-book rate within 90 days by 10–20%.
+
+
+B. KPI Benchmarks (industry-based assumptions — validate)
+* Paid search CTR (local): 3–8% (search intent keywords).
+* Landing page CVR (paid search → book): 3–6% for direct booking pages; 8–20% for tripwire/lead magnet pages.
+* Lead → consult booking rate: 25–50% (depends on lead quality).
+* Consult → paid treatment conversion: 40–60% (higher when provider trust is high).
+* Consult show rate: 60–80% (improvable with SMS reminders/paid consult).
+* AOV per treatment: $300–1,200 (varies widely by service).
+* Membership conversion: 5–15% of new treatment buyers.
+* CAC (consult lead): $75–200 (varies by city/channel).Mark each as Assumption — needs validation from JECT CRM & ad accounts.
+
+
+C. Quick-win tests (first 30 days)
+* GBP audit + 5-star review request flow (Automate post-treatment SMS review link). Impact: immediate local visibility + trust.
+* $49 Preventative Consultation trial in one market (NYC) vs. free consult control. Track conversion, show rate, AOV per consult.
+* Video social ads: 30s “I was nervous about Botox — this is how micro‑dosing works” testimonial reel. Test: ad CTR and consult bookings.
+* Wedding package ad push to bridal audiences (targeting engaged + 6–9 months out). Measure submit rate and package AOV.
+* Abandoned booking email/SMS sequence for partial checkouts. Expected recovery rate 10–25%.
+
+
+D. Offer + Proof Stack (practical)Offer: Preventative Consultation ($49) + “Plan & Timeline” PDF; redeemable credit if they book treatment within 30 days. Membership: SkinPlan $199/year with quarterly touchpoint + 1 credited facial/peel per year + 10–15% discounts.Proof stack:
+* Provider credentials & JECT Academy badge
+* Before/after galleries filtered by age/concern
+* Short video testimonials (30–60s) with same-demographic clients
+* Case studies (wedding timeline + results)
+* Google/Yelp review snapshots (4+ stars)All proofs must be location-specific where possible.
+
+
+E. Messaging mapped to funnel stages (exact hooks / CTAs)
+
+
+TOFU (Awareness) — goals: attention, opt-in
+* Hook: “Prevent aging before you see it — The Preventative Playbook” (CTA: Download + book a $49 plan).
+* Hook: “Camera-ready in 90 days: Wedding + event timelines” (CTA: Download timeline).
+* Messaging tone: educational, aspirational, seasonal (“Spring glow series”).
+
+
+MOFU (Consideration) — goals: trust, appointments
+* Hook: “JECT Academy micro‑dose method — subtle, natural, clinically-guided” (CTA: Watch 60s explainer + pick a provider).
+* Hook: “Which treatment is right for you? Take the 2-minute skin quiz.” (CTA: Get a personalized plan).
+* Messaging tone: credentialed, reassuring, curator.
+
+
+BOFU (Conversion) — goals: book, buy
+* Hook: “Book with Dr. X — 10 years injector experience — 3 slots/week only” (CTA: Book now; limited availability).
+* Hook: “Book your 90‑day wedding package — guaranteed timeline + photo-ready results” (CTA: Reserve package).
+* Messaging tone: urgent, social-proof heavy, specific.
+
+
+Each piece of messaging must include 1) provider name/credentials, 2) micro-dose evidence, 3) clear next step (book/quiz/download), 4) location/time availability.
+
+
+F. Exact funnel assets to build (priority order)
+* High-converting Local Google Search landing pages for top treatments per location (Botox, fillers, microneedling) — KPI: reduce CPC waste and increase Quality Score.
+* Tripwire landing page + payment integration ($49 consult) — KPI: tripwire CVR 15–25%.
+* Provider profile pages with video + booking CTA — KPI: increase consult-to-treatment conversion.
+* Wedding package landing page + downloadable timeline + booking flow — KPI: package conversion 3–6% from targeted ads.
+* Membership sales flow on checkout + post-treatment email upsell — KPI: membership attach rate 8–15%.
+* Review generation automation + GBP optimization — KPI: 4.5+ stars, more phone bookings.
+* Retargeting creative sets (educational, social proof, urgency) for 7/14/30-day windows — KPI: retarget CVR improvement + frequency control.
+
+
+
+
+Final Notes & Next Steps (no questions asked per policy)
+* Immediate validation tasks (first 7 days): extract top 25 recent JECT location reviews; pull 10 competitor review pages; export CRM booking & AOV by location.
+* Launch A/B tests in one market (NYC): paid consult ($49) vs free consult; micro‑dose video vs static image ad; wedding package vs standard bundle.
+* Deliverables I would prepare next (if given access): 1) Exact VOC spreadsheet (quotes + links), 2) Competitor price/membership grid, 3) 3 ad copy variations per channel mapped to funnel stage, 4) Landing page wireframes and KPI targets per location.
+
+
+End — Actionable dossier focused on converting the primary persona (Olivia) through trust-first mechanisms, a paid tripwire, membership reframing, and provider-centric proof. All numeric benchmarks and competitor specifics are flagged as assumptions where noted and require the validation steps listed above.
